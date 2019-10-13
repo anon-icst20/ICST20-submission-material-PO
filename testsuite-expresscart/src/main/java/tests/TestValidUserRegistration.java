@@ -1,0 +1,16 @@
+package tests;
+
+import static org.junit.Assert.fail;
+
+import org.junit.Test;
+import utils.BaseTest;
+
+
+class TestValidUserRegistration extends BaseTest {
+	
+	@Test
+	public void testValidUserRegistration(){
+		fail("to do");  //see TestCasesFinal.pdf in package aTestDescription
+	}
+
+}
