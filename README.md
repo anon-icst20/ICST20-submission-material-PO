@@ -1,2 +1,8 @@
 # ICST20-submission-material-PO
-Submission material for ICST 2020 paper "A Family of Experiments to Assess the Impact of the PO Pattern in Web Test Suite Development"
+Submission material for ICST 2020 paper "A Family of Experiments to Assess the Impact of the PO Pattern in Web Test Suite Development".
+
+
+Here we provide:
+ 
+- The Experimental Package (for replication purposes): the two test suites to be developed (namely, [testsuite-addressbook](https://github.com/anon-icst20/ICST20-submission-material-PO/tree/master/testsuite-addressbook) and [testsuite-expresscart](https://github.com/anon-icst20/ICST20-submission-material-PO/tree/master/testsuite-expresscart)), the test cases descriptions (respectively, [addressbook-test-case-descriptions](https://github.com/anon-icst20/ICST20-submission-material-PO/blob/master/material/addressbook-test-case-descriptions.pdf) and [expresscart-test-case-descriptions](https://github.com/anon-icst20/ICST20-submission-material-PO/blob/master/material/expresscart-test-case-descriptions.pdf)), the [instructions](https://github.com/anon-icst20/ICST20-submission-material-PO/blob/master/material/instructions-environment-setup.pdf) on how to set up the environment for the experiments, and the [steps](https://github.com/anon-icst20/ICST20-submission-material-PO/blob/master/material/procedure-for-labs.pdf) the students followed during the two lab sesssions to carry out the development tasks;
+- The Full Data Analysis Replication Package: the [complete raw data](https://github.com/anon-icst20/ICST20-submission-material-PO/blob/master/data-for-analysis-anonymized.csv) regarding the test suites development and the answers to the post experiment questionnaire (one for [master students](https://github.com/anon-icst20/ICST20-submission-material-PO/blob/master/survey-msc-anonymized.csv) and one for [PhD students](https://github.com/anon-icst20/ICST20-submission-material-PO/blob/master/survey-phd-anonymized.csv)).
